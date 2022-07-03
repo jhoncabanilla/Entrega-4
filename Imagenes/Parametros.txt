@@ -1,0 +1,6 @@
+Size: 150x150
+
+Seed 1: 5
+Seed 2: 10
+Seed 3: 45
+Probabilidad: 0.8
